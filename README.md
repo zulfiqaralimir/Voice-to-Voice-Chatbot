@@ -1,7 +1,3 @@
-# Voice-to-Voice-Chatbot
-Voice-to-Voice Chatbot with Whisper, Llama 8B, and Gradio
-
-
 # Voice-to-Voice Chatbot with Whisper, Llama 8B, and Gradio
 
 This repository contains code for a voice-to-voice chatbot that uses OpenAI's Whisper for speech-to-text transcription, the Llama 8B model (via Groq API) for generating responses, and a text-to-speech engine to convert responses back to audio. The interface is created using Gradio, allowing real-time interactions.
