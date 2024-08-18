@@ -11,3 +11,16 @@ We can deploy our model on hugging face
 * hugging face
 * chatgpt
 * colab notebook
+
+
+### Google Colab Link
+
+https://colab.research.google.com/drive/1AqNpeaWstrEk_2Hk6BZ3yA-GfEBYJzER?usp=sharing
+
+### GitHub Repo
+
+https://github.com/MahaZainab/Generative-AI/tree/main/Workshop/Week4
+
+### YouTube Video Link
+
+PART 1 : https://www.youtube.com/live/rx9zo1k7zQc
